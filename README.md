@@ -1,2 +1,2 @@
-# Spreadsheet
-Spreadsheet written in Java
+# Workbook
+Workbook written in Java
