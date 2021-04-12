@@ -1,2 +1,2 @@
 # Workbook
-Workbook written in Java
+This project was part of Introduction into programming module.
